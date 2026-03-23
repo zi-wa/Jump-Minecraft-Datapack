@@ -1,0 +1,1 @@
+execute positioned as @s unless block ~ ~-0.001 ~ #air run data modify entity @s Motion[1] set value 0.41d
