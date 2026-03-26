@@ -1,6 +1,6 @@
 # Entity Jump (Minecraft Data Pack)
-Every Entity Jumps!
-Designed for `Java Edition 1.21.10`
+**Every Entity Jumps!**
+- Designed for `Java Edition 1.21.10`
 
 ## How to Use
 1. Download the file.
